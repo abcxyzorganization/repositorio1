@@ -1,3 +1,6 @@
+## Testing
+![Gitter](https://img.shields.io/gitter/room/machicao/repositorio1?style=plastic)
+
 ---
 title: Example video for the data management hub
 layout: video_cover
@@ -14,12 +17,14 @@ update:
 author:
   - Megan Mach
 video_embedurl: https://player.vimeo.com/video/106484168
-organization: DataONE
-org_url: http://www.dataone.org
-org_logo: DataONE.png
+organization: PUKIS
+org_url: http://news.google.com.pe
+org_logo: 
 resource: true
+categories: ["video"]
 categories: ["Video"]
 ---
+
 
 
 
