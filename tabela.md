@@ -4,8 +4,8 @@ Python components for DataONE clients and servers.
 
 See the [documentation on ReadTheDocs](http://dataone-python.readthedocs.io/en/latest/).
 
-[![Build Status1](https://news.google.com.pe)](https://news.google.com.pe)
-[![Coverage Status1](https://news.google.com.pe)](https://news.google.com.pe)
+[![Build Status](https://news.google.com.pe)](https://news.google.com.pe)
+[![Coverage Status](https://news.google.com.pe)](https://news.google.com.pe)
 
 
 
@@ -29,6 +29,7 @@ organization: DataONE
 org_url: http://www.dataone.org
 org_logo: DataONE.png
 resource: true
+categories: ["video"]
 categories: ["Video"]
 ---
 
