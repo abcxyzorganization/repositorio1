@@ -1,13 +1,4 @@
-## d1_python
-
-Python components for DataONE clients and servers.
-
-See the [documentation on ReadTheDocs](http://dataone-python.readthedocs.io/en/latest/).
-
-[![Build Status](https://news.google.com.pe)](https://news.google.com.pe)
-[![Coverage Status](https://news.google.com.pe)](https://news.google.com.pe)
-
-
+## Testing
 
 ---
 title: Example video for the data management hub
