@@ -1,3 +1,13 @@
+## d1_python
+
+Python components for DataONE clients and servers.
+
+See the [documentation on ReadTheDocs](http://dataone-python.readthedocs.io/en/latest/).
+
+[![Build Status1](https://news.google.com.pe)
+[![Coverage Status2](https://news.google.com.pe)
+
+
 ---
 title: Example video for the data management hub
 layout: video_cover
@@ -20,6 +30,7 @@ org_logo: DataONE.png
 resource: true
 categories: ["Video"]
 ---
+
 
 
 
